@@ -6,17 +6,17 @@ The table containing the attributes data is shown below.
 Note: “1d12” means rolling one 12-sided die, and “2d6” means rolling 2 6-sided dice, etc.
 
 
-Type          Attack     Defense           Armor               Strength Points
+Type----------Attack------Defense-----------Armor---------------Strength Points
 
-Vampire       1d12        1d6* Charm         1                   18
+Vampire-------1d12--------1d6*Charm----------1------------------18
 
-Barbarian     2d6         2d6                0                   12
+Barbarian-----2d6---------2d6----------------0------------------12
 
-Blue Men      2d10        3d6                3                   12 *Mob
+Blue Men------2d10--------3d-----------------3------------------12 *Mob
 
-Medusa        2d6* Glare  1d6                3                   8
+Medusa--------2d6* Glare--1d6----------------3------------------8
 
-Harry Potter  2d6         2d6                0                   10/20*Hogwarts
+Harry Potter--2d6---------2d6----------------0------------------10/20*Hogwarts
 
 
 
