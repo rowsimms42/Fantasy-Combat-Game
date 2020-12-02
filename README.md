@@ -33,6 +33,7 @@ Charm: Vampires can charm an opponent into not attacking. For a given attack the
 Barbarian
 
 Characteristics: Think Conan or Hercules from the movies. Big sword, big muscles, bare torso.
+
 Charm: None
  
 
